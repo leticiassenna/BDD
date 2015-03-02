@@ -19,4 +19,13 @@ public class Belly {
         }
 
     }
+
+    public String getSound2(int waitingTime) {
+        if (cukes > 41 && waitingTime >= 1) {
+            return "rosnar";
+        } else {
+            return "silenciar";
+        }
+
+    }
 }
