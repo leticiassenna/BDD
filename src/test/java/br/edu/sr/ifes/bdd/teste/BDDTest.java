@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
 
 
 @RunWith(Cucumber.class)
-@CucumberOptions(format = "pretty", snippets = SnippetType.CAMELCASE)
+@CucumberOptions(format = "pretty", snippets = SnippetType.CAMELCASE, features="src/test/resources")
 public class BDDTest {
 
 
