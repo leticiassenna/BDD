@@ -1,0 +1,5 @@
+br/edu/sr/ifes/bdd/teste/outline/StepOutline.class
+br/edu/sr/ifes/bdd/teste/datatable/BoardSteps.class
+br/edu/sr/ifes/bdd/teste/BDDTest.class
+br/edu/sr/ifes/bdd/teste/pt_br/PTBRSteps.class
+br/edu/sr/ifes/bdd/teste/StepDefinitionsBelly.class
